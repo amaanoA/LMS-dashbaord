@@ -1,5 +1,3 @@
-<!-- Can I commit working -->
-
 # [Flowbite Admin Dashboard](https://flowbite-admin-dashboard.vercel.app) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fthemesberg%2Fflowbite-admin-dashboard&text=Check%20out%20this%20open-source%20admin%20dashboard%20built%20with%20Flowbite%20and%20Tailwind%20CSS)
 
 [![version](https://img.shields.io/npm/v/flowbite-admin-dashboard)](https://www.npmjs.com/package/flowbite-admin-dashboard)
@@ -8,7 +6,7 @@
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themesberg/flowbite-admin-dashboard.svg)](https://github.com/themesberg/flowbite-admin-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 [![Flowbite Admin Dashboard Live Preview](https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/flowbite-admin-dashboard-preview.png)](https://flowbite-admin-dashboard.vercel.app/)
-
+Zayid cali
 This project is a free and open-source UI admin dashboard template built with the components from [Flowbite](https://github.com/themesberg/flowbite) and based on the utility-first [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) framework featuring charts, tables, widgets, CRUD layouts, modals, drawers, and more.
 
 This admin dashboard can quickly help you get started building an application for your project using the newest UI/UX development technologies in the open-source area including Tailwind CSS and Flowbite.
